@@ -1,0 +1,16 @@
+#compartilhar-whatsapp {
+    /* Estilize o botão como desejar */
+    background-color: #25D366; /* Verde WhatsApp */
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    cursor: pointer;
+  }
+
+img {
+  width: 40px; /* Ajuste o tamanho conforme necessário */
+  height: 40px;
+}
